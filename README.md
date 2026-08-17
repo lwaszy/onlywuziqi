@@ -19,7 +19,7 @@ only五子棋-for Android
 
 ## 📦 如何运行
 
-使用 Android Studio 或 AIDE Pro 打开项目，点击运行即可。
+安装apk运行即可。
 
 ## 👨‍💻 作者
 
